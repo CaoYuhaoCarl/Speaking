@@ -1,0 +1,7 @@
+{
+  "name": "Tommy's Recitation Coach",
+  "description": "An interactive English recitation checker with real-time feedback and scoring powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
